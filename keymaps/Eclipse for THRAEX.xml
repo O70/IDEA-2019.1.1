@@ -2,6 +2,9 @@
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="alt period" />
   </action>
+  <action id="Macro.Enter Full Distraction Screen">
+    <keyboard-shortcut first-keystroke="f11" />
+  </action>
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="shift alt period" />
   </action>
