@@ -3,6 +3,6 @@
     <option name="USE_HTTP_PROXY" value="true" />
     <option name="PROXY_HOST" value="proxy1.bj.petrochina" />
     <option name="PROXY_PORT" value="8080" />
-    <option name="PROXY_EXCEPTIONS" value="localhost, 127.0.0.1, 10.*, 10.122.163.76, 10.122.252.3, bjksmtn.b2m.cn" />
+    <option name="PROXY_EXCEPTIONS" value="localhost, 127.0.0.1, 10.*, 10.122.163.76, 10.122.252.3" />
   </component>
 </application>
