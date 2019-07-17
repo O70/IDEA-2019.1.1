@@ -8,5 +8,6 @@
         <entry key="XML" value="true" />
       </map>
     </option>
+    <option name="USE_SOFT_WRAPS" value="" />
   </component>
 </application>
